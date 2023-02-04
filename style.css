@@ -61,9 +61,13 @@ footer {
     display: block;
   }
   .step {
+    width: 90%;
     margin: 30px auto;
   }
   .step:last-child {
   margin: 30px auto;
+  }
+  .step-img1, .step-img2, .step-img3{
+    height: 350px;
   }
 }
