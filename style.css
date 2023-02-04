@@ -61,7 +61,7 @@ footer {
     display: block;
   }
   .step {
-    width: 100%;
+    width: 90%;
     margin: 30px auto;
   }
   .step:last-child {
